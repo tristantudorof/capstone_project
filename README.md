@@ -116,6 +116,6 @@ Recommendations
 
 
 # Conclusion
-Trends show to target customers that want to hit 2500 calories burned and do light workouts for about 30 minutes per day
+Trends show to target customers that want to hit 2500 calories burned and do light workouts for less than 30 minutes per day
 These trends show who Bellabeats main group of customers are.
 These trends help influence Bellabeat marketing strategy, by defining who the target market is.
