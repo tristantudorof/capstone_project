@@ -6,7 +6,7 @@
 The Bellabeat Case Study is a capstone project for the Google Data Analytics Professional Certificate on Coursera. In this project, I will follow the data analysis process: ask, prepare, process, analyze, share and act to analyze the data.
 
 # Scenario
-a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused
+A junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused
 products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the
 global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart
 device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of
@@ -108,7 +108,7 @@ Recommendations
 
 • Most customers walk 10k steps or less so you can market to customers that want to strive to hit that goal.
 
-• Most activity was light activity reinforcing our idea of targeting normal people who enjoy casual workouts, simple like walks outside for 30 minutes a day.
+• Most activity was light activity reinforcing our idea of targeting normal people who enjoy casual workouts, like simple walks outside for 30 minutes a day.
 
 • Most activity was less than 300 minutes meaning our clients workout on average for 30 minutes a day.
 
