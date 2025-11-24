@@ -26,9 +26,10 @@ Analyze smart device usage trends to uncover opportunities for Bellabeat’s gro
 Data Source: [Bellabeat](https://www.kaggle.com/datasets/sawandikirby/bellabeat-case-study-fitbit-data/data)
 
 # 2. Prepare
-on Kaggle Notebooks,
+On Kaggle Notebooks,
 18 tables from 4.12.16-5.12.16 were imported.
-Dataset Daily Activity Merged was the focus of our analysis.
+
+Activity would be the focus of my analysis and finding trends for target market would be the goal.
 
 # Data Exploration
 started with looking at column names and data types
