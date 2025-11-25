@@ -56,7 +56,9 @@ We will be using the 31 active daily users for our analysis and identifying and 
 <img width="727" height="393" alt="Screenshot 2025-11-23 at 12 16 34 AM" src="https://github.com/user-attachments/assets/cab2c0cd-4938-49c6-a591-57e18cecdf83" />
 
 # Checking unique ids and counted 33 total with only 31 active daily for the full time period.
+
 This issue will be addressed later on.
+
 <img width="643" height="755" alt="Screenshot 2025-11-23 at 12 17 28 AM" src="https://github.com/user-attachments/assets/d90af374-d42e-460f-9c96-8fc62eb74c70" />
 
 
