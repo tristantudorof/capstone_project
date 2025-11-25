@@ -181,7 +181,7 @@ Suggests moderate-intensity workouts rather than endurance training.
 
 Daily Workout Duration
 
-Most users exercised under 300 minutes per day, averaging ~30 minutes.
+Most users exercised under 300 minutes, averaging ~30 minutes per day or less.
 
 # 6. Act — Recommendations
 
