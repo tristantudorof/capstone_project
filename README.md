@@ -6,13 +6,13 @@
 This case study is part of the Google Data Analytics Professional Certificate. Following the six-step analysis process—Ask, Prepare, Process, Analyze, Share, and Act—I analyzed smart device fitness data to uncover user behavior trends and recommend marketing strategies for Bellabeat, a health-focused manufacturer of smart wellness devices.
 
 # Scenario
-A junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused
-products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the
+Bellabeat is a successful small company, but they may have the potential to become a larger player in the
 global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart
-device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of
+device fitness data could help unlock new growth opportunities for the company. I have been asked to focus on one of
 Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The
-insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat
-executive team along with your high-level recommendations for Bellabeat’s marketing strategy.
+insights I discover will then help guide marketing strategy for the company. 
+
+I will present my analysis to the Bellabeat executive team along with high-level recommendations for Bellabeat’s marketing strategy.
 
 # Business Task
 Analyze smart device usage trends and identify opportunities for Bellabeat to improve marketing strategy and grow its user base.
@@ -55,7 +55,8 @@ we will be using the 31 active daily users for our analysis and identifying and 
 
 <img width="727" height="393" alt="Screenshot 2025-11-23 at 12 16 34 AM" src="https://github.com/user-attachments/assets/cab2c0cd-4938-49c6-a591-57e18cecdf83" />
 
-# Checking unique ids and counted 33 with only 31 active daily
+# Checking unique ids and counted 33 total with only 31 active daily for the full time period.
+This issue will be addressed later on.
 <img width="643" height="755" alt="Screenshot 2025-11-23 at 12 17 28 AM" src="https://github.com/user-attachments/assets/d90af374-d42e-460f-9c96-8fc62eb74c70" />
 
 
