@@ -142,7 +142,7 @@ We can see the average active person walked around 10k steps and burned 2k calor
 While the very active people were over 12k steps but were not the majority of users.
 
 
-# 2. Average Steps by Day
+# 2. Average Steps By Day
 
 Most active days: Tuesday, Wednesday, Saturday
 
@@ -161,9 +161,14 @@ The majority of logged activity was light activity (e.g., walking).
 Most users are casual exercisers, not athletes.
 
 <img width="705" height="396" alt="Screenshot 2025-11-23 at 12 46 25 AM" src="https://github.com/user-attachments/assets/fbecd846-6c62-4fca-bbba-03faae827bc8" />
+
 Sedentary Time
 
 Users spent a significant portion of their day sedentary—likely due to work, commuting, or sleep.
+
+# Calories Percentage By Activity Level
+
+<img width="495" height="374" alt="Screenshot 2025-11-25 at 5 24 08 PM" src="https://github.com/user-attachments/assets/1176b009-a3d0-436b-b010-f5650dd1fbd1" />
 
 we can see that most the activity was caegorized as light activity. meaning, most of the customers are using the device for more casual workouts.
 
