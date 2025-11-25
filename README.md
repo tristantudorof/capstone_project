@@ -125,6 +125,8 @@ I then looked at correlation between activity level in minutes and calories,perc
 
 This data could give us imporatant insights on goals, how long people were active for, and what the majority of activity looked like, to find trends.
 
+<img width="712" height="470" alt="Screenshot 2025-11-23 at 12 46 16 AM" src="https://github.com/user-attachments/assets/6943aa62-705c-405b-b585-d346ad5acea3" />
+
 # 5. Share
 
 # 1. Steps vs. Calories Burned
@@ -148,9 +150,9 @@ Least active day: Thursday
 
 This suggests weekly behavioral patterns that marketing can leverage.
 
-<img width="712" height="470" alt="Screenshot 2025-11-23 at 12 46 16 AM" src="https://github.com/user-attachments/assets/6943aa62-705c-405b-b585-d346ad5acea3" />
+<img width="647" height="447" alt="Screenshot 2025-11-25 at 5 03 23 PM" src="https://github.com/user-attachments/assets/999ddd8f-e923-4da2-bf7f-aa2222c10aaa" />
 
-we can see that the days Tuesday, Wednesday and Saturday were the day people were most active. While thursday was the day with the least activity.
+We can see that the days Tuesday, Wednesday and Saturday were the day people were most active. While thursday was the day with the least activity.
 
 # 3. Activity Category Percentages
 
