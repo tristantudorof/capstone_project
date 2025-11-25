@@ -40,9 +40,11 @@ Imported and explored in Kaggle Notebooks.
 
 # Exploration included:
 
-Reviewing data types and column names and the number of unique users.
+Reviewing data types, column names and the number of unique users.
 
 Checking number of unique users: 33 total, 31 active daily
+This is important becouse it shows how many people out of the 33 actually used the device daily, delivering us consistent data on the full time period. 
+we will be using the 31 active daily users for our analysis and identifying and grouping them from their unique id.
 
 # Looking at column names and data types
 
@@ -67,6 +69,8 @@ Standardized Column Names
 
 Converted to lowercase + snake_case
 
+I did this to make querys easier later in the analysis inculding any case senstive issues that could come up, and to improve readability of the code.
+
 Added derived columns:
 
 activity_date
@@ -75,11 +79,17 @@ day_of_week
 
 n_day_of_week
 
-Checked for missing values
+Adding derived columns helps group the raw data we need into useful data to make analysis, grouping, and reporting much easier.
 
-Removed duplicates
+• Checked for missing values
 
-Validated data consistency and user counts
+• Removed duplicates
+
+• Validated data consistency and user counts
+
+Missing data and duplicates can interfier with our analysis, causing inacurate results, so i checked and cleaned the data to ensure the data quality.
+
+Validating the data conssistency and user count was super important to understand how many users actualy wore the device every day. If someone wore the device for one day out of 30, and worked out at a very high level or possibly not have even worn the device during our time period, it could mess up our analysis and give us wrong insights.
 
 # Data Cleaning
 
@@ -100,13 +110,17 @@ The central question:
 
 What trends exist in smart device usage?
 
+To find trends in the data, it was important to see how people were using the device. Then from that we could find trends on what the majority of people were doing. That data could give us powerful insights on target market and simply how the majority of people a using the device and what they're using it for.
+
 To explore this, I grouped users by activity levels and analyzed relationships among calories, steps, and activity minutes.
 
 <img width="675" height="500" alt="Screenshot 2025-11-23 at 12 40 25 AM" src="https://github.com/user-attachments/assets/02c0371f-df88-4ad8-86f9-04db68ab58b7" />
 
 <img width="697" height="263" alt="Screenshot 2025-11-23 at 12 45 17 AM" src="https://github.com/user-attachments/assets/70afe22e-15df-4a45-b5af-bda262a4d87f" />
 
-we then looked at correlation between activity level in minutes and calories,percentage of activity in minutes, average steps per day, correlation between steps and calories burned.
+I then looked at correlation between activity level in minutes and calories,percentage of activity in minutes, average steps per day, correlation between steps and calories burned.
+
+This data could give us imporatant insights on goals, how long people were active for, and what the majority of activity looked like, to find trends.
 
 # 5. Share
 
@@ -114,13 +128,13 @@ we then looked at correlation between activity level in minutes and calories,per
 
 The average active user walked ~10,000 steps and burned ~2,000 calories.
 
-"Very active" users exceeded 10k steps but represented a small portion of the dataset.
+"Very active" users exceeded 12k steps but represented a small portion of the dataset.
 
 <img width="694" height="480" alt="Screenshot 2025-11-23 at 12 46 04 AM" src="https://github.com/user-attachments/assets/5082903c-5015-4bc0-8e73-8bbcfb2f3ebd" />
 
-we can see the average active person walked around 10k steps and burned 2k calories 
+We can see the average active person walked around 10k steps and burned 2k calories. 
 
-while the very active people were over 10k steps but were not the majority of users.
+While the very active people were over 12k steps but were not the majority of users.
 
 
 # 2. Average Steps by Day
