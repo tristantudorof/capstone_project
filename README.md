@@ -133,7 +133,7 @@ The average active user walked ~10,000 steps and burned ~2,000 calories.
 
 "Very active" users exceeded 12k steps but represented a small portion of the dataset.
 
-<img width="777" height="593" alt="Screenshot 2025-11-25 at 4 00 15 PM" src="https://github.com/user-attachments/assets/61364842-f548-418d-83fb-4bbc69ea726f" />
+<img width="803" height="584" alt="Screenshot 2025-11-25 at 4 15 49 PM" src="https://github.com/user-attachments/assets/e2646ad3-3b47-49c1-9178-cef6f928fecd" />
 
 We can see the average active person walked around 10k steps and burned 2k calories. 
 
