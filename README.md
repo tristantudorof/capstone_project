@@ -44,7 +44,7 @@ Reviewing data types, column names and the number of unique users.
 
 Checking number of unique users: 33 total, 31 active daily
 This is important becouse it shows how many people out of the 33 actually used the device daily, delivering us consistent data on the full time period. 
-we will be using the 31 active daily users for our analysis and identifying and grouping them from their unique id.
+We will be using the 31 active daily users for our analysis and identifying and grouping them from their unique id.
 
 # Looking at column names and data types
 
