@@ -29,6 +29,9 @@ FitBit Fitness Tracker Data (Kaggle): [Bellabeat](https://www.kaggle.com/dataset
 On Kaggle Notebooks,
 18 tables from 4/12/16 – 5/12/16, were imported.
 
+Cleaned data was exported as a csv file, and imported into Tableau Public.
+Visualization were made on both Kaggle Notebook, and Tableau Public.
+
 
 Primary focus areas:
 ✔ Activity behavior
