@@ -183,6 +183,13 @@ Daily Workout Duration
 
 Most users exercised under 300 minutes, averaging ~30 minutes per day or less.
 
+# Dashboard
+helpful insights on the overall group and the clear average user who will be our target market
+
+<img width="989" height="764" alt="Screenshot 2025-11-25 at 6 10 16 PM" src="https://github.com/user-attachments/assets/c05f59a3-dde7-48b3-90d1-a5052bb9fa67" />
+
+
+
 # 6. Act — Recommendations
 
 Recommendations
