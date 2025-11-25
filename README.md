@@ -180,47 +180,47 @@ Most users exercised under 300 minutes per day, averaging ~30 minutes.
 
 Recommendations
 
-🎯 Target Everyday Wellness Users
+# Target Everyday Wellness Users
 
 Most users aim for manageable goals like burning 2,000–2,500 calories/day—not elite training levels.
 Marketing should reflect this.
 
-📅 Advertise Before High-Activity Days
+# Advertise Before High-Activity Days
 
 Activity peaks on Tuesday, Wednesday, and Saturday.
 Bellabeat can increase engagement by promoting workouts and features on Monday and Friday.
 
-🚶 Emphasize Step-Based Goals
+# Emphasize Step-Based Goals
 
 Most users walk 10k steps or fewer, making campaigns like:
 “Reach your 10,000 steps with Bellabeat.”
 highly relevant.
 
-🌿 Focus on Light & Moderate Activity
+# Focus on Light & Moderate Activity
 
 Market to users who prefer:
 
-Walking
+• Walking
 
-Light cardio
+• Light cardio
 
-Short daily routines
+• Short daily routines
 
-General wellness habits
+• General wellness habits
 
-⌚ Promote Consistency (30-Minute Workouts)
+# Promote Consistency (30-Minute Workouts)
 
 Daily reminders, streaks, and habit-building features align well with user behavior.
 
-💤 Sedentary Insights = Opportunity
+# Sedentary Insights = Opportunity
 
 Highlight:
 
-Sedentary alerts
+• Sedentary alerts
 
-Stress/breathing reminders
+• Stress/breathing reminders
 
-Sleep tracking
+• Sleep tracking
 
 These features match how users wear their devices throughout the day and night.
 
