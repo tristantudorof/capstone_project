@@ -189,7 +189,7 @@ Most users exercised under 300 minutes, averaging ~30 minutes per day or less.
 # Dashboard
 helpful insights on the overall group and the clear average user who will be our target market
 
-<img width="989" height="762" alt="Screenshot 2025-11-26 at 3 12 34 PM" src="https://github.com/user-attachments/assets/e80dc956-665b-4288-adc7-5e353398b184" />
+<img width="995" height="763" alt="Screenshot 2025-11-26 at 3 18 39 PM" src="https://github.com/user-attachments/assets/b89b6202-565c-4507-8e5f-017c0323b7f6" />
 
 
 
