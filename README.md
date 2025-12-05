@@ -3,7 +3,7 @@
 
 # Introduction 
 
-This case study is part of the Google Data Analytics Professional Certificate. Following the six-step analysis process—Ask, Prepare, Process, Analyze, Share, and Act—I analyzed smart device fitness data to uncover user behavior trends and recommend marketing strategies for Bellabeat, a health-focused manufacturer of smart wellness devices.
+This case study is part of the Google Data Analytics Professional Certificate. Following the six step analysis process. Ask, Prepare, Process, Analyze, Share, and Act. I analyzed smart device fitness data to uncover user behavior trends and recommend marketing strategies for Bellabeat, a health-focused manufacturer of smart wellness devices.
 
 # Scenario
 Bellabeat is a successful small company, but they may have the potential to become a larger player in the
